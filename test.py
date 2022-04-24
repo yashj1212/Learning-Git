@@ -1,3 +1,5 @@
-print("Hello world")
-print("Hello")
-#test comment 1
+from random import randint
+
+a = randint(0, 10)
+print(a)
+
